@@ -1,0 +1,22 @@
+header{
+  background-color: darkgreen;
+  /* padding: 20px; */
+}
+.logo{
+color: white;
+font-weight: 700;
+font-size: 30px;
+}
+.navigation{
+  display: flex;
+  justify-content: space-around;
+  background-color: darkslategray;
+  padding: 20px;
+}
+li{
+  list-style-type: none;
+}
+.nav_link{
+  text-decoration: none;
+  color: #fff;
+}

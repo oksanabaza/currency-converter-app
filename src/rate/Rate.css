@@ -1,0 +1,10 @@
+.Exch_rates_block{
+  display: flex;
+  justify-content: space-between;
+  padding: 50px;
+}
+.Exch_rates{
+  padding: 50px 100px;
+  border: 1px solid black;
+background-color: dimgray;
+}
